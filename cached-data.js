@@ -65,4 +65,4 @@ class CachedData {
     }
 }
 
-module.exports = { CachedData };
+module.exports = CachedData;
